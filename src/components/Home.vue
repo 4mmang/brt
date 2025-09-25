@@ -18,8 +18,8 @@ defineProps<{}>()
                         Technology Solution
                     </h2>
                     <p class="font-medium text-secondary text-xl mb-10 leading-relaxed">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias ab totam neque modi unde qui
-                        dolore, cumque assumenda nihil earum fugiat quo ad vel obcaecati!
+                        <span class="font-bold text-primary">Bandar Room Tech</span> is a platform that offers software development services and programming training, designed to
+                        help individuals and businesses grow their tech skills and create impactful solutions
                     </p>
                     <a href="https://wa.me/6282290762799" id="contact-me"
                         class="text-base font-semibold text-white bg-primary py-3 px-8 rounded-full hover:bg-blue-400 transition duration-300 ease-in-out">

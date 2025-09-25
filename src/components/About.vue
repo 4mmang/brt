@@ -7,9 +7,11 @@
                 <div class="w-full px-4 mb-10 lg:w-1/2">
                     <h4 class="font-bold uppercase text-3xl mb-3">About Us</h4>
                     <p class="font-medium text-base text-secondary max-w-xl lg:text-xl"> <span
-                            class="text-primary tracking-wider font-bold">Bandar Room Tech</span> Lorem ipsum, dolor sit
-                        amet consectetur adipisicing elit. Provident sint saepe vero id minus in velit at veritatis,
-                        enim ut commodi voluptates illum impedit! Repellendus iste totam soluta eos at.</p>
+                            class="text-primary tracking-wider font-bold">Bandar Room Tech</span> is dedicated to
+                        building innovative technology solutions while also providing programming training programs. We
+                        believe that combining reliable software development services with practical training can
+                        empower individuals and organizations to adapt to technological advancements and achieve their
+                        goals.</p>
                 </div>
 
                 <div class="w-full px-4 lg:w-1/2">
@@ -29,7 +31,7 @@
                         </a> -->
                         <a href="https://wa.me/6282290762799"
                             class="mr-3 p-4 rounded-full flex justify-center bg-primary px-5 text-white items-center border">
-                            <span class="mr-2">Get  In Touch</span>
+                            <span class="mr-2">Get In Touch</span>
                             <svg width="20" role="img" fill="currentColor" viewBox="0 0 24 24"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <title>WhatsApp</title>
