@@ -92,7 +92,7 @@ onUnmounted(() => {
                             </a>
                         </li>
                         <li class="group">
-                            <a href="#team" @click="scrollToSection($event, '#team')"
+                            <a href="#training" @click="scrollToSection($event, '#team')"
                                 class="text-base text-primary py-2 mx-8 flex">
                                 Training
                             </a>
